@@ -19,7 +19,6 @@
 # 📊 GitHub Stats:
 <p align=left>
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=PanStoKrotka&count_private=true&show_icons=true&theme=dark' />
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=PanStoKrotka&theme=dark' />
 </p>
 <img src = 'https://github-readme-stats.vercel.app/api?username=PanStoKrotka&theme=dark&hide_border=false&include_all_commits=false&count_private=false'/></br>
 <img src = 'https://nirzak-streak-stats.vercel.app/?user=PanStoKrotka&theme=dark&hide_border=false'/></br>
