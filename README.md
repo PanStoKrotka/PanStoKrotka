@@ -20,11 +20,11 @@
 <p align=left>
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=PanStoKrotka&count_private=true&show_icons=true&theme=dracula' />
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=PanStoKrotka&theme=dracula' />
-
+</p>
 <img src = 'https://github-readme-stats.vercel.app/api?username=PanStoKrotka&theme=dark&hide_border=false&include_all_commits=false&count_private=false'/></br>
 <img src = 'https://nirzak-streak-stats.vercel.app/?user=PanStoKrotka&theme=dark&hide_border=false'/></br>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/ username=PanStoKrotka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
-</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PanStoKrotka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
