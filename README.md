@@ -4,10 +4,10 @@
 **PanStoKrotka/PanStoKrotka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
-🔭 I’m currently working on school assignments<br>
-🌱 I’m currently learning programming<br>
+🔭 I’m currently working on school assignments <br>
+🌱 I’m currently learning programming <br>
 💬 Don’t ask me <br>
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him <br>
 ⚡ Fun fact I love dogs
 
 
